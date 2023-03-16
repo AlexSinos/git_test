@@ -3,3 +3,4 @@ My first Github Repo
 Hello Odin!
 
 if(A)=(B) 
+then (A) = (C)
